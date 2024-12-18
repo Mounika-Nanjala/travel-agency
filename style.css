@@ -39,7 +39,7 @@ header {
 .hero {
     text-align: center;
     padding: 2rem;
-    background: linear-gradient(135deg, #6e5494, #8e44ad);
+    background: linear-gradient(135deg, #3498db, #2ecc71);
     color: white;
 }
 
